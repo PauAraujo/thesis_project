@@ -1,0 +1,44 @@
+BLOOM QLORA finetuning, Average for PAWS-X, XNLI and SIB00 Datasets
+Pearson correlation: 0.127, p-value: 0.626
+Spearman correlation: -0.074, p-value: 0.779
+language  accuracy  subword_fertility
+      ar    0.5508             1.2126
+      bg    0.7640             2.6361
+      de    0.7998             1.6635
+      el    0.7746             3.6822
+      en    0.8472             1.1208
+      es    0.8060             1.1295
+      fr    0.8125             1.1090
+      hi    0.7115             1.2734
+      ja    0.8126             1.4992
+      ko    0.8022             3.8594
+      ru    0.7713             2.7454
+      sw    0.6825             1.4540
+      th    0.7358             4.7935
+      tr    0.7254             2.3958
+      ur    0.6622             1.1910
+      vi    0.7406             1.3192
+      zh    0.7603             1.2172
+
+MT5 QLORA finetuning, Average for PAWS-X, XNLI and SIB00 Datasets
+Pearson correlation: -0.180, p-value: 0.491
+Spearman correlation: -0.289, p-value: 0.260
+language  accuracy  subword_fertility
+      ar    0.4882             1.5021
+      bg    0.3961             1.7812
+      de    0.5842             1.5358
+      el    0.3824             2.0497
+      en    0.7546             1.4199
+      es    0.7227             1.5095
+      fr    0.7304             1.5720
+      hi    0.6043             1.8589
+      ja    0.5596             0.9749
+      ko    0.4603             2.2747
+      ru    0.4641             1.8451
+      sw    0.4729             1.8658
+      th    0.3320             1.4967
+      tr    0.3738             1.7995
+      ur    0.5282             1.6513
+      vi    0.6620             2.5350
+      zh    0.6884             1.6290
+

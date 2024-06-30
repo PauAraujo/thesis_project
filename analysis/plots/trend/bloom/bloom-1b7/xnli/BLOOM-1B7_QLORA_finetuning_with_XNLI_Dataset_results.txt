@@ -1,0 +1,19 @@
+BLOOM-1B7 QLORA finetuning with XNLI Dataset
+Pearson correlation: -0.684, p-value: 0.005
+Spearman correlation: -0.768, p-value: 0.001
+language  accuracy  subword_fertility
+      ar    0.7618             1.1405
+      bg    0.5803             2.4942
+      de    0.6076             1.5883
+      el    0.5542             3.5306
+      en    0.8622             1.0944
+      es    0.8181             1.1050
+      fr    0.8145             1.0858
+      hi    0.7161             1.2723
+      ru    0.6606             2.5729
+      sw    0.5639             1.3093
+      th    0.4799             4.8443
+      tr    0.4422             2.2036
+      ur    0.6510             1.1250
+      vi    0.7679             1.2642
+      zh    0.7888             1.6170

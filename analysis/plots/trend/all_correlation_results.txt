@@ -1,0 +1,444 @@
+MT5-Small QLORA finetuning with PAWS-X Dataset
+Pearson correlation: 0.011, p-value: 0.981
+Spearman correlation: 0.143, p-value: 0.760
+language  accuracy  subword_fertility
+      de    0.7755             1.4829
+      en    0.8800             1.4702
+      es    0.8005             1.4731
+      fr    0.8145             1.5169
+      ja    0.7140             1.0545
+      ko    0.7110             2.1658
+      zh    0.6725             1.2996
+
+MT5-Small QLORA finetuning with XNLI Dataset
+Pearson correlation: -0.281, p-value: 0.310
+Spearman correlation: -0.368, p-value: 0.177
+language  accuracy  subword_fertility
+      ar    0.5651             1.7284
+      bg    0.6064             1.8097
+      de    0.6141             1.5739
+      el    0.6088             2.0579
+      en    0.7008             1.4476
+      es    0.6237             1.5743
+      fr    0.6217             1.6450
+      hi    0.5562             1.7981
+      ru    0.5972             1.8646
+      sw    0.5205             1.7565
+      th    0.5695             1.7236
+      tr    0.5478             1.7797
+      ur    0.5137             1.5867
+      vi    0.5478             2.4769
+      zh    0.5912             2.4025
+
+MT5-Small QLORA finetuning with SIB200 Dataset
+Pearson correlation: 0.056, p-value: 0.843
+Spearman correlation: -0.197, p-value: 0.480
+language  accuracy  subword_fertility
+      ar    0.4040             1.2757
+      bg    0.8081             1.7526
+      de    0.8081             1.5505
+      el    0.7576             2.0415
+      en    0.8081             1.3420
+      es    0.7879             1.4811
+      fr    0.7778             1.5540
+      hi    0.6465             1.9197
+      ru    0.8485             1.8256
+      sw    0.6869             1.9750
+      th    0.7576             1.2697
+      tr    0.6970             1.8193
+      ur    0.5455             1.7160
+      vi    0.7374             2.5930
+      zh    0.7879             1.1850
+
+MT5-Small QLORA finetuning with SIB200 Dataset
+Pearson correlation: -0.003, p-value: 0.992
+Spearman correlation: -0.295, p-value: 0.250
+language  accuracy  subword_fertility
+      ar    0.4040             1.2757
+      bg    0.8081             1.7526
+      de    0.8081             1.5505
+      el    0.7576             2.0415
+      en    0.8081             1.3420
+      es    0.7879             1.4811
+      fr    0.7778             1.5540
+      hi    0.6465             1.9197
+      ja    0.8182             0.8953
+      ko    0.7778             2.3835
+      ru    0.8485             1.8256
+      sw    0.6869             1.9750
+      th    0.7576             1.2697
+      tr    0.6970             1.8193
+      ur    0.5455             1.7160
+      vi    0.7374             2.5930
+      zh    0.7879             1.1850
+
+MT5-Base QLORA finetuning with PAWS-X Dataset
+Pearson correlation: 0.016, p-value: 0.973
+Spearman correlation: 0.143, p-value: 0.760
+language  accuracy  subword_fertility
+      de    0.8235             1.4829
+      en    0.8980             1.4702
+      es    0.8605             1.4731
+      fr    0.8560             1.5169
+      ja    0.7340             1.0545
+      ko    0.7570             2.1658
+      zh    0.7770             1.2996
+
+MT5-Base QLORA finetuning with XNLI Dataset
+Pearson correlation: -0.260, p-value: 0.349
+Spearman correlation: -0.279, p-value: 0.315
+language  accuracy  subword_fertility
+      ar    0.6526             1.7284
+      bg    0.6992             1.8097
+      de    0.7064             1.5739
+      el    0.6904             2.0579
+      en    0.7699             1.4476
+      es    0.7205             1.5743
+      fr    0.7253             1.6450
+      hi    0.6301             1.7981
+      ru    0.6900             1.8646
+      sw    0.6084             1.7565
+      th    0.6518             1.7236
+      tr    0.6498             1.7797
+      ur    0.6064             1.5867
+      vi    0.6542             2.4769
+      zh    0.6711             2.4025
+
+MT5-Base QLORA finetuning with SIB200 Dataset
+Pearson correlation: 0.252, p-value: 0.365
+Spearman correlation: 0.022, p-value: 0.939
+language  accuracy  subword_fertility
+      ar    0.4040             1.2757
+      bg    0.8081             1.7526
+      de    0.8990             1.5505
+      el    0.8889             2.0415
+      en    0.8889             1.3420
+      es    0.8586             1.4811
+      fr    0.8687             1.5540
+      hi    0.8182             1.9197
+      ru    0.8586             1.8256
+      sw    0.7677             1.9750
+      th    0.8182             1.2697
+      tr    0.8182             1.8193
+      ur    0.7576             1.7160
+      vi    0.8485             2.5930
+      zh    0.8283             1.1850
+
+MT5-Base QLORA finetuning with SIB200 Dataset
+Pearson correlation: 0.151, p-value: 0.564
+Spearman correlation: -0.104, p-value: 0.692
+language  accuracy  subword_fertility
+      ar    0.4040             1.2757
+      bg    0.8081             1.7526
+      de    0.8990             1.5505
+      el    0.8889             2.0415
+      en    0.8889             1.3420
+      es    0.8586             1.4811
+      fr    0.8687             1.5540
+      hi    0.8182             1.9197
+      ja    0.8990             0.8953
+      ko    0.8586             2.3835
+      ru    0.8586             1.8256
+      sw    0.7677             1.9750
+      th    0.8182             1.2697
+      tr    0.8182             1.8193
+      ur    0.7576             1.7160
+      vi    0.8485             2.5930
+      zh    0.8283             1.1850
+
+MT5-Large QLORA finetuning with PAWS-X Dataset
+Pearson correlation: -0.054, p-value: 0.909
+Spearman correlation: 0.000, p-value: 1.000
+language  accuracy  subword_fertility
+      de    0.8755             1.4829
+      en    0.9435             1.4702
+      es    0.8975             1.4731
+      fr    0.9145             1.5169
+      ja    0.8420             1.0545
+      ko    0.8400             2.1658
+      zh    0.8450             1.2996
+
+MT5-Large QLORA finetuning with XNLI Dataset
+Pearson correlation: -0.251, p-value: 0.367
+Spearman correlation: -0.329, p-value: 0.231
+language  accuracy  subword_fertility
+      ar    0.7639             1.7284
+      bg    0.8036             1.8097
+      de    0.8076             1.5739
+      el    0.8028             2.0579
+      en    0.8671             1.4476
+      es    0.8257             1.5743
+      fr    0.8145             1.6450
+      hi    0.7490             1.7981
+      ru    0.7751             1.8646
+      sw    0.7137             1.7565
+      th    0.7490             1.7236
+      tr    0.7707             1.7797
+      ur    0.7016             1.5867
+      vi    0.7570             2.4769
+      zh    0.7703             2.4025
+
+MT5-Large QLORA finetuning with SIB200 Dataset
+Pearson correlation: 0.267, p-value: 0.336
+Spearman correlation: 0.014, p-value: 0.959
+language  accuracy  subword_fertility
+      ar    0.5152             1.2757
+      bg    0.8586             1.7526
+      de    0.8889             1.5505
+      el    0.8990             2.0415
+      en    0.8687             1.3420
+      es    0.8788             1.4811
+      fr    0.9192             1.5540
+      hi    0.8687             1.9197
+      ru    0.8586             1.8256
+      sw    0.7980             1.9750
+      th    0.8687             1.2697
+      tr    0.8687             1.8193
+      ur    0.8485             1.7160
+      vi    0.8990             2.5930
+      zh    0.8990             1.1850
+
+MT5-Large QLORA finetuning with SIB200 Dataset
+Pearson correlation: 0.209, p-value: 0.420
+Spearman correlation: 0.016, p-value: 0.950
+language  accuracy  subword_fertility
+      ar    0.5152             1.2757
+      bg    0.8586             1.7526
+      de    0.8889             1.5505
+      el    0.8990             2.0415
+      en    0.8687             1.3420
+      es    0.8788             1.4811
+      fr    0.9192             1.5540
+      hi    0.8687             1.9197
+      ja    0.8687             0.8953
+      ko    0.8687             2.3835
+      ru    0.8586             1.8256
+      sw    0.7980             1.9750
+      th    0.8687             1.2697
+      tr    0.8687             1.8193
+      ur    0.8485             1.7160
+      vi    0.8990             2.5930
+      zh    0.8990             1.1850
+
+BLOOM-560M QLORA finetuning with PAWS-X Dataset
+Pearson correlation: -0.630, p-value: 0.130
+Spearman correlation: -0.714, p-value: 0.071
+language  accuracy  subword_fertility
+      de    0.7045             1.6157
+      en    0.8975             1.1762
+      es    0.8260             1.1788
+      fr    0.8425             1.1566
+      ja    0.6595             1.5610
+      ko    0.6475             3.4974
+      zh    0.7285             1.0701
+
+BLOOM-560M QLORA finetuning with XNLI Dataset
+Pearson correlation: -0.715, p-value: 0.003
+Spearman correlation: -0.815, p-value: 0.000
+language  accuracy  subword_fertility
+      ar    0.7265             1.1405
+      bg    0.5165             2.4942
+      de    0.5373             1.5883
+      el    0.4137             3.5306
+      en    0.8108             1.0944
+      es    0.7739             1.1050
+      fr    0.7699             1.0858
+      hi    0.6643             1.2723
+      ru    0.5703             2.5729
+      sw    0.4984             1.3093
+      th    0.4418             4.8443
+      tr    0.4209             2.2036
+      ur    0.6000             1.1250
+      vi    0.7309             1.2642
+      zh    0.7309             1.6170
+
+BLOOM-560M QLORA finetuning with SIB200 Dataset
+Pearson correlation: -0.878, p-value: 0.000
+Spearman correlation: -0.890, p-value: 0.000
+language  accuracy  subword_fertility
+      ar    0.2828             1.2847
+      bg    0.2222             2.7779
+      de    0.4040             1.7864
+      el    0.2020             3.8337
+      en    0.5556             1.0919
+      es    0.5253             1.1046
+      fr    0.5657             1.0846
+      hi    0.5455             1.2746
+      ru    0.2424             2.9179
+      sw    0.4343             1.5987
+      th    0.1313             4.7427
+      tr    0.3333             2.5881
+      ur    0.4444             1.2570
+      vi    0.5657             1.3741
+      zh    0.5758             0.9644
+
+BLOOM-560M QLORA finetuning with SIB200 Dataset
+Pearson correlation: -0.876, p-value: 0.000
+Spearman correlation: -0.902, p-value: 0.000
+language  accuracy  subword_fertility
+      ar    0.2828             1.2847
+      bg    0.2222             2.7779
+      de    0.4040             1.7864
+      el    0.2020             3.8337
+      en    0.5556             1.0919
+      es    0.5253             1.1046
+      fr    0.5657             1.0846
+      hi    0.5455             1.2746
+      ja    0.4343             1.4374
+      ko    0.2323             4.2215
+      ru    0.2424             2.9179
+      sw    0.4343             1.5987
+      th    0.1313             4.7427
+      tr    0.3333             2.5881
+      ur    0.4444             1.2570
+      vi    0.5657             1.3741
+      zh    0.5758             0.9644
+
+BLOOM-1B1 QLORA finetuning with PAWS-X Dataset
+Pearson correlation: -0.758, p-value: 0.048
+Spearman correlation: -0.714, p-value: 0.071
+language  accuracy  subword_fertility
+      de    0.7775             1.6157
+      en    0.9405             1.1762
+      es    0.8880             1.1788
+      fr    0.9010             1.1566
+      ja    0.7280             1.5610
+      ko    0.6695             3.4974
+      zh    0.8000             1.0701
+
+BLOOM-1B1 QLORA finetuning with XNLI Dataset
+Pearson correlation: -0.659, p-value: 0.008
+Spearman correlation: -0.793, p-value: 0.000
+language  accuracy  subword_fertility
+      ar    0.7341             1.1405
+      bg    0.5627             2.4942
+      de    0.5819             1.5883
+      el    0.5590             3.5306
+      en    0.8562             1.0944
+      es    0.8056             1.1050
+      fr    0.7984             1.0858
+      hi    0.6996             1.2723
+      ru    0.6345             2.5729
+      sw    0.5329             1.3093
+      th    0.4747             4.8443
+      tr    0.4301             2.2036
+      ur    0.6454             1.1250
+      vi    0.7558             1.2642
+      zh    0.7554             1.6170
+
+BLOOM-1B1 QLORA finetuning with SIB200 Dataset
+Pearson correlation: -0.672, p-value: 0.006
+Spearman correlation: -0.696, p-value: 0.004
+language  accuracy  subword_fertility
+      ar    0.2222             1.2847
+      bg    0.2424             2.7779
+      de    0.3939             1.7864
+      el    0.2626             3.8337
+      en    0.4444             1.0919
+      es    0.4646             1.1046
+      fr    0.5051             1.0846
+      hi    0.4949             1.2746
+      ru    0.2929             2.9179
+      sw    0.4040             1.5987
+      th    0.2525             4.7427
+      tr    0.3030             2.5881
+      ur    0.3232             1.2570
+      vi    0.5758             1.3741
+      zh    0.5152             0.9644
+
+BLOOM-1B1 QLORA finetuning with SIB200 Dataset
+Pearson correlation: -0.698, p-value: 0.002
+Spearman correlation: -0.718, p-value: 0.001
+language  accuracy  subword_fertility
+      ar    0.2222             1.2847
+      bg    0.2424             2.7779
+      de    0.3939             1.7864
+      el    0.2626             3.8337
+      en    0.4444             1.0919
+      es    0.4646             1.1046
+      fr    0.5051             1.0846
+      hi    0.4949             1.2746
+      ja    0.3535             1.4374
+      ko    0.2323             4.2215
+      ru    0.2929             2.9179
+      sw    0.4040             1.5987
+      th    0.2525             4.7427
+      tr    0.3030             2.5881
+      ur    0.3232             1.2570
+      vi    0.5758             1.3741
+      zh    0.5152             0.9644
+
+BLOOM-1B7 QLORA finetuning with PAWS-X Dataset
+Pearson correlation: -0.757, p-value: 0.049
+Spearman correlation: -0.714, p-value: 0.071
+language  accuracy  subword_fertility
+      de    0.7660             1.6157
+      en    0.9395             1.1762
+      es    0.8880             1.1788
+      fr    0.9020             1.1566
+      ja    0.7280             1.5610
+      ko    0.6770             3.4974
+      zh    0.8165             1.0701
+
+BLOOM-1B7 QLORA finetuning with XNLI Dataset
+Pearson correlation: -0.684, p-value: 0.005
+Spearman correlation: -0.768, p-value: 0.001
+language  accuracy  subword_fertility
+      ar    0.7618             1.1405
+      bg    0.5803             2.4942
+      de    0.6076             1.5883
+      el    0.5542             3.5306
+      en    0.8622             1.0944
+      es    0.8181             1.1050
+      fr    0.8145             1.0858
+      hi    0.7161             1.2723
+      ru    0.6606             2.5729
+      sw    0.5639             1.3093
+      th    0.4799             4.8443
+      tr    0.4422             2.2036
+      ur    0.6510             1.1250
+      vi    0.7679             1.2642
+      zh    0.7888             1.6170
+
+BLOOM-1B7 QLORA finetuning with SIB200 Dataset
+Pearson correlation: -0.693, p-value: 0.004
+Spearman correlation: -0.594, p-value: 0.020
+language  accuracy  subword_fertility
+      ar    0.2020             1.2847
+      bg    0.2525             2.7779
+      de    0.4848             1.7864
+      el    0.3030             3.8337
+      en    0.4848             1.0919
+      es    0.5152             1.1046
+      fr    0.4747             1.0846
+      hi    0.5051             1.2746
+      ru    0.3838             2.9179
+      sw    0.4040             1.5987
+      th    0.2121             4.7427
+      tr    0.3131             2.5881
+      ur    0.5051             1.2570
+      vi    0.5758             1.3741
+      zh    0.4848             0.9644
+
+BLOOM-1B7 QLORA finetuning with SIB200 Dataset
+Pearson correlation: -0.706, p-value: 0.002
+Spearman correlation: -0.657, p-value: 0.004
+language  accuracy  subword_fertility
+      ar    0.2020             1.2847
+      bg    0.2525             2.7779
+      de    0.4848             1.7864
+      el    0.3030             3.8337
+      en    0.4848             1.0919
+      es    0.5152             1.1046
+      fr    0.4747             1.0846
+      hi    0.5051             1.2746
+      ja    0.4545             1.4374
+      ko    0.3030             4.2215
+      ru    0.3838             2.9179
+      sw    0.4040             1.5987
+      th    0.2121             4.7427
+      tr    0.3131             2.5881
+      ur    0.5051             1.2570
+      vi    0.5758             1.3741
+      zh    0.4848             0.9644
+

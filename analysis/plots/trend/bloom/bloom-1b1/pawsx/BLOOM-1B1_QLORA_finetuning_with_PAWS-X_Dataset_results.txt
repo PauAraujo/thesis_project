@@ -1,0 +1,11 @@
+BLOOM-1B1 QLORA finetuning with PAWS-X Dataset
+Pearson correlation: -0.758, p-value: 0.048
+Spearman correlation: -0.714, p-value: 0.071
+language  accuracy  subword_fertility
+      de    0.7775             1.6157
+      en    0.9405             1.1762
+      es    0.8880             1.1788
+      fr    0.9010             1.1566
+      ja    0.7280             1.5610
+      ko    0.6695             3.4974
+      zh    0.8000             1.0701

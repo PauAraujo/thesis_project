@@ -1,0 +1,19 @@
+MT5-Large QLORA finetuning with SIB200 Dataset
+Pearson correlation: 0.267, p-value: 0.336
+Spearman correlation: 0.014, p-value: 0.959
+language  accuracy  subword_fertility
+      ar    0.5152             1.2757
+      bg    0.8586             1.7526
+      de    0.8889             1.5505
+      el    0.8990             2.0415
+      en    0.8687             1.3420
+      es    0.8788             1.4811
+      fr    0.9192             1.5540
+      hi    0.8687             1.9197
+      ru    0.8586             1.8256
+      sw    0.7980             1.9750
+      th    0.8687             1.2697
+      tr    0.8687             1.8193
+      ur    0.8485             1.7160
+      vi    0.8990             2.5930
+      zh    0.8990             1.1850

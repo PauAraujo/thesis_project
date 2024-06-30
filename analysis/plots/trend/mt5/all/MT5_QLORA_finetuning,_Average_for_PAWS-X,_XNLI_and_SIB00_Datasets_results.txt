@@ -1,0 +1,21 @@
+MT5 QLORA finetuning, Average for PAWS-X, XNLI and SIB00 Datasets
+Pearson correlation: -0.180, p-value: 0.491
+Spearman correlation: -0.289, p-value: 0.260
+language  accuracy  subword_fertility
+      ar    0.4882             1.5021
+      bg    0.3961             1.7812
+      de    0.5842             1.5358
+      el    0.3824             2.0497
+      en    0.7546             1.4199
+      es    0.7227             1.5095
+      fr    0.7304             1.5720
+      hi    0.6043             1.8589
+      ja    0.5596             0.9749
+      ko    0.4603             2.2747
+      ru    0.4641             1.8451
+      sw    0.4729             1.8658
+      th    0.3320             1.4967
+      tr    0.3738             1.7995
+      ur    0.5282             1.6513
+      vi    0.6620             2.5350
+      zh    0.6884             1.6290

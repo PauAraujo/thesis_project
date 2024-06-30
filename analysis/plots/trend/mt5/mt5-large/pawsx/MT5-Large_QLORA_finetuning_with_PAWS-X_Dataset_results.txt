@@ -1,0 +1,11 @@
+MT5-Large QLORA finetuning with PAWS-X Dataset
+Pearson correlation: -0.054, p-value: 0.909
+Spearman correlation: 0.000, p-value: 1.000
+language  accuracy  subword_fertility
+      de    0.8755             1.4829
+      en    0.9435             1.4702
+      es    0.8975             1.4731
+      fr    0.9145             1.5169
+      ja    0.8420             1.0545
+      ko    0.8400             2.1658
+      zh    0.8450             1.2996

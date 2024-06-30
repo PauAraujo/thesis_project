@@ -1,0 +1,21 @@
+BLOOM-1B7 QLORA finetuning with SIB200 Dataset
+Pearson correlation: -0.706, p-value: 0.002
+Spearman correlation: -0.657, p-value: 0.004
+language  accuracy  subword_fertility
+      ar    0.2020             1.2847
+      bg    0.2525             2.7779
+      de    0.4848             1.7864
+      el    0.3030             3.8337
+      en    0.4848             1.0919
+      es    0.5152             1.1046
+      fr    0.4747             1.0846
+      hi    0.5051             1.2746
+      ja    0.4545             1.4374
+      ko    0.3030             4.2215
+      ru    0.3838             2.9179
+      sw    0.4040             1.5987
+      th    0.2121             4.7427
+      tr    0.3131             2.5881
+      ur    0.5051             1.2570
+      vi    0.5758             1.3741
+      zh    0.4848             0.9644

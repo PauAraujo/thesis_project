@@ -1,0 +1,19 @@
+MT5-Large QLORA finetuning with XNLI Dataset
+Pearson correlation: -0.251, p-value: 0.367
+Spearman correlation: -0.329, p-value: 0.231
+language  accuracy  subword_fertility
+      ar    0.7639             1.7284
+      bg    0.8036             1.8097
+      de    0.8076             1.5739
+      el    0.8028             2.0579
+      en    0.8671             1.4476
+      es    0.8257             1.5743
+      fr    0.8145             1.6450
+      hi    0.7490             1.7981
+      ru    0.7751             1.8646
+      sw    0.7137             1.7565
+      th    0.7490             1.7236
+      tr    0.7707             1.7797
+      ur    0.7016             1.5867
+      vi    0.7570             2.4769
+      zh    0.7703             2.4025
